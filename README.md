@@ -24,7 +24,7 @@ The project involves several key steps:
 2. *Exploratory Data Analysis (EDA)*: Analyze the dataset to understand the distribution and relationship of the variables.
 3. *Feature Engineering*: Extract and select features relevant to the customer segmentation and purchase prediction.
 4. *Model Development*:
-   - Use clustering techniques like K-means to segment customers.
+   - The segmentation will be performed using clustering algorithms, such as SVC, logistic Regression, K-Nearesr Neighbours, Decision Trees, Random Forest. The optimal number of clusters will be determined using techniques such as elbow method or silhouette analysis.
    - Build predictive models to forecast future purchases based on the initial purchase data.
 5. *Model Evaluation*: Assess the performance of the models using metrics such as silhouette score and accuracy.
 
